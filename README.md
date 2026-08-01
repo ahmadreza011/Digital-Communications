@@ -17,7 +17,7 @@ The folder also contains some other files for the prelabs.
 
 ## Advancded Communications
 
-This folder contains the computer assignemnts designed for Advanced Communications:
+This folder contains the computer assignemnts designed for the Advanced Communications course:
 
 - HW1: An overview of stochastic processes, low-pass and band signals
 - HW2: Coherent and non-coherent recievers for digital modulations
